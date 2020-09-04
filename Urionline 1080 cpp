@@ -9,7 +9,7 @@ int main(){
 		if(a>tmp){
 		tmp=a;
 		pos=i+1;
-		}	
+	}	
 	}
 	cout<<tmp<<endl<<pos<<endl;
 	return 0;
